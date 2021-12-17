@@ -1,0 +1,81 @@
+---
+title: "Capstone Group Evaluations"
+author: "Jasmine Merrill"
+date: "12/15/2021"
+output: html_notebook
+---
+
+
+## Who are you evaluating?
+
+self-evaluation
+
+
+
+
+# Evaluation Areas
+
+### 1. Intellectual Contributions.
+
+*Understanding the project, doing the research, evaluating and interpreting data, creative efforts and problem solving insight, providing intellectual leadership for group.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Played big role in doing research and understood the assignment enough to help others of they had questions.
+
+
+
+
+### 2. Team Support.
+
+*Enthusiasm, commitment to project, cooperation, respect for other persons’ ideas, willingness to compromise as appropriate, receptiveness to constructive feedback.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Big team player and will always listen to other people's ideas and compromise where it is appropriate.
+
+
+
+
+### 3. Communication Contributions. 
+
+*Effectiveness of communication within team, quality of written work, contributions toward creation of presentation and other written work.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Does part to the max and makes sure everyone else does their part also. 
+
+
+
+
+### 4. Time Contributions.
+
+*Keeping team on task, meeting deadlines, following through on plans, attendance at team meetings, does equal share of work.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Very good at staying organizaed and making sure we met deadlines. Always on time and does equal share of work.
+
+
+
+
+
+### 5. Overall / Other Contributions
+
+*Score any additional contributions, general remarks, or overall impression of this person as a member of the group.*
+
+
+Score (out of 10): 10
+
+Justification/Examples: Overall great team player and understood material from the year very well.
+
+
+
+
+
+# Total Score (out of 50): 50
+
+
+
+
+
