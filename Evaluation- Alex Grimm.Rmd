@@ -1,0 +1,81 @@
+---
+title: "Capstone Group Evaluations"
+author: "Jasmine Merrill"
+date: "12/15/2021"
+output: html_notebook
+---
+
+
+## Who are you evaluating?
+
+Alex Grimm
+
+
+
+
+# Evaluation Areas
+
+### 1. Intellectual Contributions.
+
+*Understanding the project, doing the research, evaluating and interpreting data, creative efforts and problem solving insight, providing intellectual leadership for group.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Alex was always on time to everything and was always asking intellectual questions to help make all of our work better. Alex played a big part in set up for projects and finding data.
+
+
+
+
+### 2. Team Support.
+
+*Enthusiasm, commitment to project, cooperation, respect for other persons’ ideas, willingness to compromise as appropriate, receptiveness to constructive feedback.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Alex was always on time to everything and was always happy to help with whatever anyone needed. Willing to hear out anyone's idea.
+
+
+
+
+### 3. Communication Contributions. 
+
+*Effectiveness of communication within team, quality of written work, contributions toward creation of presentation and other written work.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Great communicator and very easy to talk to. Does all the work he is assigned to with extra effort.
+
+
+
+
+### 4. Time Contributions.
+
+*Keeping team on task, meeting deadlines, following through on plans, attendance at team meetings, does equal share of work.* 
+
+Score (out of 10): 10
+
+Justification/Examples: Alex was very team driven and kept us all on track with exactly what we should be doing.
+
+
+
+
+
+### 5. Overall / Other Contributions
+
+*Score any additional contributions, general remarks, or overall impression of this person as a member of the group.*
+
+
+Score (out of 10): 10
+
+Justification/Examples: Oveerall a very friendly guy and was willing to help out wherever he could.
+
+
+
+
+
+# Total Score (out of 50): 50
+
+
+
+
+
